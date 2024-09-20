@@ -7,6 +7,9 @@ Task was to  create a comprehensive Power BI report using an order dataset from 
 ## Data Source 
 https://fp20analytics.com/live-challenge/
 
+## Live Power Bi Report 
+https://app.powerbi.com/view?r=eyJrIjoiNTA3MTc5MGItMjIwNy00ZDNhLWI4OGItOGU5MTM2NmI3NDRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Findings and Analysis 
 ### Overall Performance 
 ⚫ Annual Avearge Profit Margin : Average Profit Margin has shown ```6.3%``` incremental from year 2020 - 2023. It has not met the profit target of ```15``` % in 2023  <br>
