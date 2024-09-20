@@ -9,28 +9,28 @@ https://fp20analytics.com/live-challenge/
 
 ## Findings and Analysis 
 ### Overall Performance 
-⚫ Annual Avearge Profit Margin : Average Profit Margin has shown ```6.3 %``` incremental from year 2020 - 2023. It has not met the profit target of 15 % in 2023  <br>
-⚫ Annual Sales Growth : Annual Sales growth has shown avegerage growth rate of 24 % every year from 2020 - 2023 . It has met the sales growth target every year  <br>
+⚫ Annual Avearge Profit Margin : Average Profit Margin has shown ```6.3%``` incremental from year 2020 - 2023. It has not met the profit target of ```15``` % in 2023  <br>
+⚫ Annual Sales Growth : Annual Sales growth has shown avegerage growth rate of ```24 %``` every year from 2020 - 2023 . It has met the sales growth target every year  <br>
 ⚫ Discount Analysis : The data clearly demonstrates a strong positive correlation between increased discounts and both higher profit margins and sales growth. This suggests that store's discount strategy has been highly effective in 
    driving business performance. <br> 
 
 ### Product Performance 
 
-⚫ Herbal Essences Bio and Neutrogena Hydro Gel Cream dominated from 2020 - 2023 <br>
-⚫ Corporate is the most profitable segment through the years and has met the higher target of 30 %. Plans and subscriptions at affordable prices for self employed segment can boost the performance as they might have limited financial Capability . <br>
-⚫ Herbal Body Care products consistently outperformed other categories from 2020 - 2023. Focus on expanding product range , improve quality , enhancing customer experience and effective marketing to boost Face care sales 
+⚫ Herbal Essences Bio and Neutrogena Hydro Gel Cream ```dominated``` from 2020 - 2023 <br>
+⚫ Corporate is the most profitable segment through the years and has met the higher target of ```30 %```. Plans and subscriptions at affordable prices for self employed segment can boost the performance as they might have limited financial Capability . <br>
+⚫ Herbal Body Care products consistently ```outperformed``` other categories from 2020 - 2023. Focus on expanding product range , improve quality , enhancing customer experience and effective marketing to boost Face care sales 
 
 ### Market and Region Analysis 
 
-⚫ The store experienced strong sales growth across all regions  showing a sales growth rate above 47%. <br> 
-⚫ Africa also demonstrated significant growth, with a 52.05% increase in sales. <br> 
-⚫ Asia Pacific remains the dominant market, accounting for the largest share of total sales. 
+⚫ The store experienced strong sales growth across all regions  showing a sales growth rate above ```47%```. <br> 
+⚫ Africa also demonstrated significant growth, with a ```52.05%``` increase in sales. <br> 
+⚫ Asia Pacific remains the ```dominant``` market, accounting for the largest share of total sales. 
 
 ## Recommendations 
 
 ### Overall Performance
 
-⚫ Profit Margin: To meet the 15% profit target in 2023, the company should focus on: <br> 
+⚫ Profit Margin: To meet the ```15%``` profit target in 2023, the company should focus on: <br> 
 ⚫ Cost Reduction: Identify areas where costs can be reduced without compromising quality. <br>
 ⚫ Price Optimization: Evaluate pricing strategies to ensure that products are priced competitively and profitably. <br>
 ⚫ Product Mix: Analyze the product mix to identify low-margin products that can be replaced or optimized. <br> 
